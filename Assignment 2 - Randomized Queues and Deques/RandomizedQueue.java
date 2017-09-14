@@ -1,6 +1,6 @@
 //package test;//uncomment this line to run in eclipse
 
-//Guanghua Zhang, week 2 assignment - 2/3
+// week 2 assignment - 2/3
 
 import java.util.Iterator;
 import edu.princeton.cs.algs4.StdOut;
