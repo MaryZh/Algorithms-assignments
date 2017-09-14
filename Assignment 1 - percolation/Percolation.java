@@ -1,6 +1,6 @@
 //package test; //uncomment this line to run in eclipse
 
-// Guanghua Zhang, week 1 assignment-percolation
+// week 1 assignment-percolation
 
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
