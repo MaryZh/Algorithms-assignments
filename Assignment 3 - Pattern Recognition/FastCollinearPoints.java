@@ -1,6 +1,6 @@
 //package test;
 
-//Guanghua Zhang, week 3 assignment - 3/3
+// week 3 assignment - 3/3
 
 import java.util.ArrayList;
 import java.util.Arrays;
