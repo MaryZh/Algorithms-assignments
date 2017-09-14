@@ -1,6 +1,6 @@
 //package test; //uncomment this line to run in eclipse
 
-//Guanghua Zhang, week 4 assignment - 2/2
+// week 4 assignment - 2/2
 
 
 import edu.princeton.cs.algs4.In;
